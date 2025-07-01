@@ -40,7 +40,20 @@ WebSockets • Monorepos • CI/CD • API Design • SaaS Products
 
 ---
 
+
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham2311&show_icons=true&theme=tokyonight&hide_title=false" height="180" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=shubham2311&theme=tokyonight&hide_border=false" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2311&layout=compact&theme=tokyonight" height="180" />
+</p>
+
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > — *Cory House*
+---
 
 Thanks for visiting!
