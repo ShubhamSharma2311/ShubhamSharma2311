@@ -34,9 +34,9 @@ WebSockets • Monorepos • CI/CD • API Design • SaaS Products
 
 ## 📫 Reach Me
 
-- 📧 Email: `shubham2311@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📧 Email: `ssk735937@gmail.com`  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sharma-shubham-shrinivas/)  
+  
 
 ---
 
