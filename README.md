@@ -45,13 +45,20 @@ WebSockets • Monorepos • CI/CD • API Design • SaaS Products
 ## 📊 GitHub Insights
 
 <p align="center">
+  <!-- Custom language priority badges -->
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Others-grey?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubham2311&show_icons=true&theme=tokyonight&hide_title=false" height="180" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=shubham2311&theme=tokyonight&hide_border=false" height="180" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2311&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2311&layout=compact&theme=tokyonight&langs_count=6&hide=css,html" height="180" />
 </p>
-
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > — *Cory House*
 ---
