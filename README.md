@@ -64,15 +64,30 @@ const shubham = {
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Journey
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamsharma5734&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsharma5734&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+### 🔥 Current Stats
+```
+🎯 Repositories: 15+
+⭐ Total Stars: Growing every day
+🍴 Forks: Open source contributions
+📦 Projects: Full-stack applications
+🐛 Issues: Bug hunter & problem solver
+```
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsharma5734&theme=tokyonight" alt="GitHub Streak" />
+### 📊 Activity Overview
+```javascript
+// My GitHub workflow
+const githubActivity = {
+  mostUsedLanguages: ["TypeScript", "JavaScript", "C++"],
+  focusAreas: ["Backend APIs", "Database Design", "Open Source"],
+  dailyHabits: ["Code", "Learn", "Contribute", "Repeat"],
+  motto: "Clean code, better solutions! 💫"
+};
+```
+
 </div>
 
 ---
@@ -122,6 +137,30 @@ const shubham = {
 
 ---
 
+## 🎨 Fun Zone
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+
+### 🎯 Developer Life in One Line:
+```bash
+while(alive) { eat(); sleep(); code(); repeat(); }
+```
+
+### 🚀 Current Mission:
+```typescript
+const mission2024 = {
+  goal: "Master Backend Architecture",
+  progress: "75%",
+  nextStep: "Contribute to major open source projects",
+  dreamJob: "Senior Backend Engineer at innovative startup"
+};
+```
+
+### 📚 Learning Path:
+```
+📖 Currently Reading: "Designing Data-Intensive Applications"
+🎯 Next Target: AWS Certification & Kubernetes
+🔥 Side Quest: Building SaaS products
+```
+
 </div>
