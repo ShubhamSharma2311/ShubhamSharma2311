@@ -32,7 +32,7 @@ AWS (EC2, S3, Lambda), Docker, Vercel, Cloudflare Workers
 - First Place, Inter-College Hackathon - MERN Stack Development
 - 10+ full-stack applications deployed in production
 - Active open source contributor
-- 100+ algorithmic problems solved
+- 250+ algorithmic problems solved at different platforms like leetcode , gfg and TUF+
 
 ## Education
 
