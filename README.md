@@ -43,7 +43,7 @@ Indian Institute of Information Technology, Ranchi | Expected 2025
 
 **Email:** ssk735937@gmail.com  
 **LinkedIn:** [linkedin.com/in/sharma-shubham-shrinivas](https://www.linkedin.com/in/sharma-shubham-shrinivas/)  
-**GitHub:** [github.com/shubhamsharma5734](https://github.com/shubhamsharma5734)
+**LeetCode:** [leetcode.com/u/Shubham_2311](https://leetcode.com/u/Shubham_2311)
 
 ---
 
