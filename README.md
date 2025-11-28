@@ -1,6 +1,6 @@
 # Shubham Sharma
 
-Full-Stack Developer specializing in backend architecture and scalable web applications. Final year Electronics and Communication Engineering student at IIIT Ranchi with a strong foundation in computer science fundamentals and practical software development experience.
+Full-Stack Developer specializing in backend architecture and scalable web applications. Final year Electronics and Communication Engineering student at IIIT Ranchi with a strong foundation in software development and system design.
 
 ## Technical Expertise
 
@@ -10,82 +10,34 @@ Full-Stack Developer specializing in backend architecture and scalable web appli
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Backend Development
-- **Frameworks:** Node.js, Express.js, NestJS
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **ORMs & Tools:** Prisma, TypeORM
+### Backend & Databases
+Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Redis, Prisma
 
-### Frontend Development
-- **Frameworks:** React, Next.js
-- **Styling:** Tailwind CSS, CSS3
-- **State Management:** Redux, Context API
+### Frontend
+React, Next.js, Tailwind CSS
 
-### DevOps & Infrastructure
-- **Containerization:** Docker
-- **Deployment:** Vercel, Cloudflare Workers
-- **Version Control:** Git, GitHub
-- **API Tools:** Postman, WebSockets
+### Cloud & DevOps
+AWS (EC2, S3, Lambda), Docker, Vercel, Cloudflare Workers
 
 ## Current Focus
 
-Working on production-grade applications with emphasis on:
-- Designing and implementing RESTful APIs with TypeScript and Node.js
-- Building AI-integrated applications using Gemini API and vector embeddings
-- Database architecture and optimization with PostgreSQL and Prisma
-- Serverless architecture and edge computing solutions
-- Contributing to open source projects and collaborative development
+- Building scalable REST APIs with TypeScript and Node.js
+- Developing AI-integrated applications using Gemini API and vector embeddings
+- Database architecture and optimization with PostgreSQL
+- Cloud infrastructure and serverless solutions on AWS
+- Contributing to open source projects
 
-## Professional Experience
+## Highlights
 
-**Backend Development**
-- Architected and deployed scalable REST APIs serving thousands of requests
-- Implemented database schemas and optimized query performance
-- Built authentication systems with JWT and OAuth
-- Developed real-time features using WebSockets
+- First Place, Inter-College Hackathon - MERN Stack Development
+- 10+ full-stack applications deployed in production
+- Active open source contributor
+- 100+ algorithmic problems solved
 
-**Full-Stack Projects**
-- Created end-to-end web applications with React and Node.js
-- Integrated third-party APIs and payment gateways
-- Implemented responsive UI/UX designs with modern CSS frameworks
-- Deployed applications on cloud platforms with CI/CD pipelines
+## Education
 
-## Academic Background
-
-**Bachelor of Technology in Electronics and Communication Engineering**  
-Indian Institute of Information Technology, Ranchi  
-Expected Graduation: 2025
-
-**Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks
-
-## Achievements
-
-- First Place, Inter-College Hackathon - MERN Stack Development Competition
-- Successfully deployed 10+ full-stack applications in production environments
-- Active contributor to multiple open source repositories
-- Solved 100+ algorithmic problems across various platforms
-
-## Open Source Contributions
-
-Actively contributing to the developer community through:
-- Code contributions to established open source projects
-- Collaboration on full-stack web development initiatives
-- Sharing knowledge through technical documentation
-
-## Learning Path
-
-Currently expanding expertise in:
-- Advanced system design and architectural patterns
-- Microservices architecture and distributed systems
-- Cloud infrastructure and DevOps practices
-- Performance optimization and scalability
-
-## Technical Writing
-
-Documenting learning experiences and technical insights:
-- Backend architecture best practices
-- Database design patterns
-- API development standards
-- Modern web development workflows
+**B.Tech in Electronics and Communication Engineering**  
+Indian Institute of Information Technology, Ranchi | Expected 2025
 
 ## Contact
 
@@ -95,4 +47,4 @@ Documenting learning experiences and technical insights:
 
 ---
 
-Open to opportunities in backend development, full-stack engineering, and software development roles. Available for freelance projects and collaborative ventures.
+Open to opportunities in backend development, full-stack engineering, and software development roles.
